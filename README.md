@@ -1,2 +1,2 @@
-# Butterwidth-high-pass
+# Butterwidth-High-Pass
 Exp8
